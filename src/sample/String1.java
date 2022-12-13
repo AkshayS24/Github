@@ -13,7 +13,9 @@ public static void main(String[] args)
     
     System.out.println(s1.equals(s2));   // true
     
+    
     System.out.println(s1==s2);     // false  -> because object created using new keyword.
+    
     
     
     
